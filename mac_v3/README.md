@@ -1,7 +1,6 @@
 # Capslock Enhancement (mac v3) 
 
 
-
 ### MacOS Installation
 
 
